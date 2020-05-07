@@ -1,2 +1,2 @@
-# jellynote_components
+# Jellynote Components
 Jellynote Components
